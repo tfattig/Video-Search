@@ -1,4 +1,8 @@
+This project was built in React and uses the YouTube API for a video search. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Use ### `npm install` and then ### `npm start` to run on localhost
 
 ## Available Scripts
 
